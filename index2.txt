@@ -1,3 +1,3 @@
 
 python,3.9.1,a122ed44a91dd5fabc180b482c2f01fa3d5709d4078669beb3679ce89fe3f31c,https://github.com/engineer-man/piston/releases/download/pkgs/python-3.9.1.pkg.tar.gz
-python,3.9.4,6926590b2177bf0eff1863e9cf481c530ad14cd5c7e9fc700ebeff6d2cd9615b,https://watchfacesmiband.fra1.cdn.digitaloceanspaces.com/mibandx6/python.pkg.tar.gz
+python,3.9.4,63148137ff0f1aece002eaeb3fc9e9e672857fc7de35c038540f7152cafab088,https://watchfacesmiband.fra1.cdn.digitaloceanspaces.com/mibandx6/python.pkg.tar.gz
